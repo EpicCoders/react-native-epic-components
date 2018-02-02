@@ -1,0 +1,39 @@
+{
+  "name": "react-native-pocket",
+  "version": "0.1.0",
+  "description": "React Native Pocket & UI Toolkit",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/azertys/pocket-react.git"
+  },
+  "keywords": [
+    "react-native",
+    "reactjs",
+    "reactnative",
+    "bootstrap"
+  ],
+  "author": "EpicPxls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azertys/pocket-react/issues"
+  },
+  "rnpm": {
+    "assets": [
+      "./src/fonts/"
+    ]
+  },
+  "homepage": "https://github.com/azertys/pocket-react#readme",
+  "dependencies": {
+    "immutable": "^3.8.2",
+    "node": "^8.3.0",
+    "prop-types": "^15.6.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "^0.48.4",
+    "react-native-calendars": "^1.7.1",
+    "react-native-pathjs-charts": "https://github.com/capitalone/react-native-pathjs-charts",
+    "react-native-svg": "^5.4.2",
+    "react-native-vector-icons": "^4.4.0"
+  },
+  "devDependencies": {}
+}
